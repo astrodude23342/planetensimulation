@@ -1,3 +1,3 @@
 # Planeten Simulation
 
-![Simulation](
+![Simulation](planetensimulation.png)
